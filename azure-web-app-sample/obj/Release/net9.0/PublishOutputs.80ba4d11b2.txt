@@ -1,0 +1,7 @@
+/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/publish/azure-web-app-sample
+/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/publish/appsettings.Development.json
+/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/publish/appsettings.json
+/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/publish/azure-web-app-sample.dll
+/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/publish/azure-web-app-sample.deps.json
+/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/publish/azure-web-app-sample.runtimeconfig.json
+/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/publish/azure-web-app-sample.pdb

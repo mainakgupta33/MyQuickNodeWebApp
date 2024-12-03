@@ -1,0 +1,4 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "azure-web-app-sample/bin/Release/net9.0/publish"
+}

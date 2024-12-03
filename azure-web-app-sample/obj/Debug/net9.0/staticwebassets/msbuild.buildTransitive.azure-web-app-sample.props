@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/azure-web-app-sample.props" />
+</Project>
