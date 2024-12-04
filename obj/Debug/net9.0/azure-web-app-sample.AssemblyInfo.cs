@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-web-app-sample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41db7e097e6e4b03f8e3265ed81797922f65ef7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+570d3d5b43efee8445ee8947f8366858f9a7ec18")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-web-app-sample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-web-app-sample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

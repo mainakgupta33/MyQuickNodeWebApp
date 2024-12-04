@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = azure_web_app_sample
 build_property.RootNamespace = azure_web_app_sample
-build_property.ProjectDir = /Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/
+build_property.ProjectDir = /Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample
+build_property.MSBuildProjectDirectory = /Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/Pages/Error.cshtml]
+[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/Pages/Index.cshtml]
+[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/Pages/Privacy.cshtml]
+[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/Pages/_ViewImports.cshtml]
+[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/Pages/_ViewStart.cshtml]
+[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/Pages/Shared/_Layout.cshtml]
+[/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-j9sdggkqp4
