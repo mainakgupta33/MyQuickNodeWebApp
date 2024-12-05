@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/azure-web-app-sample.csproj": {}
+    "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample.csproj": {}
   },
   "projects": {
-    "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/azure-web-app-sample.csproj": {
+    "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/azure-web-app-sample.csproj",
+        "projectUniqueName": "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample.csproj",
         "projectName": "azure-web-app-sample",
-        "projectPath": "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/azure-web-app-sample.csproj",
+        "projectPath": "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample.csproj",
         "packagesPath": "/Users/mainak/.nuget/packages/",
-        "outputPath": "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/obj/",
+        "outputPath": "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mainak/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.ApplicationInsights": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

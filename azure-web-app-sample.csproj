@@ -8,4 +8,8 @@
     <RootNamespace>azure_web_app_sample</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights" Version="2.22.0" />
+  </ItemGroup>
+
 </Project>

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gdSHxFLfXmE=",
+  "dgSpecHash": "guJzOEZVxcs=",
   "success": true,
-  "projectFilePath": "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample/azure-web-app-sample.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/mainak/Library/CloudStorage/OneDrive-CloudKaptanConsultancyServicesPvtLtd/Documents 1/gitProjects/azureProjects/MyQuickNodeWebApp/azure-web-app-sample.csproj",
+  "expectedPackageFiles": [
+    "/Users/mainak/.nuget/packages/microsoft.applicationinsights/2.22.0/microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "/Users/mainak/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
